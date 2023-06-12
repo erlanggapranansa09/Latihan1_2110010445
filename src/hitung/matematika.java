@@ -16,17 +16,17 @@ public class matematika {
     }
     
     //membuat method setpengurangan
-    double setpenguranagan(){
+    double setPengurangan(){
         return bil1 - bil2;
     }
     
     //membuat method setperkalian
-    double setperkalian(){
+    double setPerkalian(){
         return bil1 * bil2;
     }
     
     //membuat method setpembagian
-    double setpembagian(){
+    double setPembagian(){
         return bil1 / bil2;
     }
 }
