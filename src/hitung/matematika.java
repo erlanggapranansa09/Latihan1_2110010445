@@ -14,5 +14,20 @@ public class matematika {
     double setPenjumlahan(){
         return bil1 + bil2;
     }
+    
+    //membuat method setpengurangan
+    double setpenguranagan(){
+        return bil1 - bil2;
+    }
+    
+    //membuat method setperkalian
+    double setperkalian(){
+        return bil1 * bil2;
+    }
+    
+    //membuat method setpembagian
+    double setpembagian(){
+        return bil1 / bil2;
+    }
 }
 
